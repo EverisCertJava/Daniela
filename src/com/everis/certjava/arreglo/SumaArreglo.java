@@ -11,18 +11,20 @@ public class SumaArreglo {
 	arreglo[2]= 3;
 	arreglo[3]= 4;
 	
+	int suma=0;
 	for(int i=0; i<arreglo.length; i++){
 		System.out.println("Indices: " + i);
-		arreglo[i+1] = arreglo[i] + arreglo[i+1];
-		System.out.println("Suma Ascendente: " + arreglo[i+1]);
-		
+		suma+=arreglo[i];
+		System.out.println("Suma Ascendente: " + suma);	
 	}
 	
+	System.out.println("----------------");
 	
+	suma=0;
 	for(int i=arreglo.length-1; i>=0; i--){
 		System.out.println("Indices: " + i);
-		arreglo[i-1] = arreglo[i] + arreglo[i-1];
-		System.out.println("Suma Descendente: " + arreglo[i-1]);
+		suma+=arreglo[i];
+		System.out.println("Suma Descendente: " + suma);
 	}
 	
 }
