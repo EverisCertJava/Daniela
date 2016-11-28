@@ -1,0 +1,21 @@
+package mx.com.everis.certjava.Multiple;
+
+ class Multiple1 {
+
+}
+
+class MyClass{
+	
+}
+
+public interface Multiple1{
+	
+}
+
+interface Movable{
+	
+}
+
+class Car{
+	
+}

@@ -1,0 +1,15 @@
+package mx.com.everis.certjava.Shape;
+
+import mx.com.everis.certjava.Interfaces.Circle;
+import mx.com.everis.certjava.Interfaces.Rectangle;
+import mx.com.everis.certjava.Interfaces.Square;
+
+public class Shape implements Circle, Rectangle, Square{
+
+	@Override
+	public void draw() {
+		System.out.println("Soy un");
+		
+	}
+
+}

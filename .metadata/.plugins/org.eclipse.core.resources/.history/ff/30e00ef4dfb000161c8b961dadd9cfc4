@@ -1,0 +1,12 @@
+package mx.com.everis.certjava.certification;
+
+public class ExamQuestion {
+	
+	public ExamQuestion(){
+		System.out.println("Hola");
+	}
+	
+	public ExamQuestion(String palabra){
+		System.out.println(palabra);
+	}
+}

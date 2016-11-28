@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.interfaces.AtheleteDos"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.clases.Runner"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.padre.Person"/>
+<fullyQualifiedTypeName name="mx.com.everis.library.Book"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.interfaces.MiInterface"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.clastatic.Emp"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.certification.ExamQuestion"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.interfaces.EjemploInterface"/>
+<fullyQualifiedTypeName name="mx.com.everis.staticimport.StaticImportAmbig"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.estatico.Estatico"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.ejemplo2.Clase2"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.interfaces.Interfaces"/>
+<fullyQualifiedTypeName name="mx.com.everis.clasepadre.Liquido"/>
+<fullyQualifiedTypeName name="mx.com.everis.claseshijas.Cafe"/>
+<fullyQualifiedTypeName name="mx.com.everis.claseshijas.Leche"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Circle"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Square"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Rectangle"/>
+</qualifiedTypeNameHistroy>

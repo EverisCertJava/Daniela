@@ -1,0 +1,12 @@
+package mx.com.everis.certjava.estatico;
+
+public class Estatico {
+	
+	public static final String lugar = "Everis";
+	
+	public static String getValidStatus(){
+		
+		return "hola";
+	}
+
+}

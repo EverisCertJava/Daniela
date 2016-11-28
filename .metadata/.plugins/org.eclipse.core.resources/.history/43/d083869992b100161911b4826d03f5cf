@@ -1,0 +1,15 @@
+package mx.com.everis.certjava.ejemplo;
+
+public class Test {
+
+	/*
+	 * Identifiers must start with a letter, a concurrency character ($), or a connecting character such the 
+	 * underscore(_). Identifiers cannot start with a digit
+	 */
+	String 5hola;
+	String hola;
+	String $hola;
+	
+
+
+}

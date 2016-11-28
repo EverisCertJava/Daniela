@@ -1,0 +1,13 @@
+package mx.com.everis.certjava.university;
+
+import mx.com.everis.certjava.certification.ExamQuestion;
+
+public class AnnualExam {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ExamQuestion eq = new ExamQuestion("Hola"); 
+		
+	}
+
+}

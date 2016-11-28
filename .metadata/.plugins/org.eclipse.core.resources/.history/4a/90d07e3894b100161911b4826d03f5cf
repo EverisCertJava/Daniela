@@ -1,0 +1,12 @@
+package mx.com.everis.certjava.estatico;
+
+public class Estatico {
+	
+	public static String getValidStatus(){
+		
+		String nulo = null;
+		nulo = "hola";
+		return nulo;
+	}
+
+}

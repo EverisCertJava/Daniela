@@ -1,0 +1,18 @@
+package mx.com.everis.certjava.estatico;
+
+import mx.com.everis.certjava.ejemplo2.Clase2;
+import static mx.com.everis.certjava.ejemplo2.Clase2.lugar2;
+
+public class Estatico {
+	
+	public static final String lugar = "Everis";
+	
+	public static String getValidStatus(){
+		
+		return "hola";
+	}
+
+   public static Clase2 obj;
+
+	
+}

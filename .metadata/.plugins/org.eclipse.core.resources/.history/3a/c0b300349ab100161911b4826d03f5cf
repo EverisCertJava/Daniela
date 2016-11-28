@@ -1,0 +1,12 @@
+package mx.com.everis.certjava.interfaces;
+
+public interface Interfaces {
+	
+	private String hola;
+	public String hola2;
+	final String hola3;
+	protected String hola4;
+	static String hola5;
+	
+	void Clase();
+}

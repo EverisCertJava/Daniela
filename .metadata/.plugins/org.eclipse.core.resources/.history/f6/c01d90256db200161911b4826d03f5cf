@@ -1,0 +1,6 @@
+package mx.com.everis.certjava.Interfaces;
+
+public interface Rectangle {
+	void draw();
+
+}
