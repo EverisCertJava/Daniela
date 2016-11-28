@@ -17,4 +17,6 @@
 <fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Circle"/>
 <fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Square"/>
 <fullyQualifiedTypeName name="mx.com.everis.certjava.Interfaces.Rectangle"/>
+<fullyQualifiedTypeName name="mx.com.everis.certjava.Interface.Padre"/>
+<fullyQualifiedTypeName name="mx.comeveris.certjava.Factory.TazaFactory"/>
 </qualifiedTypeNameHistroy>

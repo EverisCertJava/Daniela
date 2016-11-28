@@ -7,8 +7,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="1194" key="dialogWidth"/>
-		<item value="609" key="dialogHeight"/>
+		<item value="1184" key="dialogWidth"/>
+		<item value="599" key="dialogHeight"/>
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -16,6 +16,12 @@
 		<list key="orderedProviders">
 		</list>
 		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 </section>

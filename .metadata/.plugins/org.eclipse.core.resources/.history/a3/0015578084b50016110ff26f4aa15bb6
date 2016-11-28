@@ -1,0 +1,14 @@
+import mx.com.everis.certjava.Interface.Padre;
+
+
+public class TazaFactory {
+	public static Padre getBatir(String accion){
+		if(accion.equals("Leche")){
+			System.out.println("Estas batiendo leche");
+		}
+		else if(accion.equals("Cafe")){
+			System.out.println("Estas batiendo cafe");
+		}
+		return null;
+	}
+}
